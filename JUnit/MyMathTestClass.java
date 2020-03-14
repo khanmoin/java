@@ -3,6 +3,8 @@
  * Defining Tests for MyMath Java Class
  */
 
+package JUnit;
+
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

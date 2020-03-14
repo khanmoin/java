@@ -2,6 +2,8 @@
  * Defines JUnit Test cases for the PrintMsg Class
  */
 
+package JUnit;
+
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

@@ -3,6 +3,7 @@
  * Runs tests written for the MyMath Class in TestClass Class
  */
 
+package JUnit;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;

@@ -3,6 +3,8 @@
  * Runs tests defined in TestPrintMsg class for PrintMsg class
  */
 
+package JUnit;
+
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;

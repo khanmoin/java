@@ -2,6 +2,8 @@
  * Simple Class which implements a Constructor and a printMsg function
  */
 
+package JUnit; 
+
 public class PrintMsg {
 
     private String msg;

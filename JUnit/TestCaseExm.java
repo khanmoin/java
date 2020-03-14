@@ -2,6 +2,7 @@
  * Using JUnits TestCase Class
  */
 
+ package JUnit;
 
  import junit.framework.TestCase;
  import org.junit.Test;
